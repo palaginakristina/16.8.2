@@ -2,7 +2,7 @@
 # круг (class Circle), который принимает в качестве аргументов свой радиус.
 # Вычислите площадь круга
 
-from 16.8.2 import Rectangle, Square, Circle
+from практика.py import Rectangle, Square, Circle
 #далее создаем два прямоугольника
 
 rect_1 = Rectangle(3,4)
